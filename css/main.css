@@ -64,7 +64,7 @@ html {
 }
 
 .masthead a:focus {
-  outline: #fff;
+  outline-color: #fff;
 }
 
 .techniques {
